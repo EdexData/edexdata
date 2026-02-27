@@ -1,15 +1,3 @@
-# 📝 DETALII REPO GITHUB (COPIAZĂ DE MAI JOS)
-
-## 1. DESCRIERE SCURTĂ (Secțiunea "About" din dreapta)
-MVP: Platformă de Business Intelligence bazată pe AI și ML. Analiză financiară, scoring de risc și profile inteligente pentru companiile din România.
-
-## 2. ETICHETE (Secțiunea "Topics")
-ai, machine-learning, fintech, business-intelligence, romania, data-analytics, mvp, financial-ai
-
----
-
-## 3. CONȚINUT README.md (Copiați tot ce urmează)
-
 # Edex Data — Business Intelligence & Financial AI (MVP)
 
 **Edex Data** este o platformă în stadiu de MVP (Minimum Viable Product) creată pentru a testa și valida o nouă paradigmă în analiza datelor economice din România. Utilizăm module de **Inteligență Artificială (AI)** și **Machine Learning (ML)** pentru a transforma datele financiare brute în indicatori de bonitate și performanță ușor de înțeles.
