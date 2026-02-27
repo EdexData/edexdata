@@ -23,4 +23,4 @@ Acest release demonstrează capacitatea de a procesa volume mari de date oficial
 Platforma se află în **faza de validare tehnică**. Versiunea actuală servește ca demonstrație a infrastructurii de date și a capacităților de procesare AI. Feedback-ul utilizatorilor din această etapă este esențial pentru rafinarea modelelor de Machine Learning și extinderea funcționalităților de analiză profundă.
 
 ---
-© 2026 Edex Data Intelligence. Revoluționând transparența datelor economice prin AI.
+© 2026 <a href="https://edexdata.ro">Edex Data</a> Intelligence. Revoluționând transparența datelor economice prin AI.
